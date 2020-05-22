@@ -1,1 +1,1 @@
-https://github.com/FollowWinds/Picutres/blob/master/yjy_20200522.jpg
+![image](https://github.com/FollowWinds/Picutres/blob/master/yjy_20200522.jpg)
